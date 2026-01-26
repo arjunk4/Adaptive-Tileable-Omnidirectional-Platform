@@ -1,0 +1,25 @@
+Motor Parameters:
+maxMotorAngVelRPM, maxMotorAngVelRadPerSec, maxMotorTorque, maxMotorPower, motorMass, motorDia, motorLength
+6984 , 731.3627697557038 , 2.9533906965506356 , 2160 , 0.5 , 47 , 130.3
+ 
+Gear strength and size parameters:
+FOS, serviceFactor, stressAnalysisMethodName, maxGearBoxDia, maxGearAllowableStressMPa
+1.2 , 1.5 , MIT , 50.160000000000004 , 70
+ 
+Optimization Parameters:
+K_mass, K_Eff, MODULE_BIG_MIN, MODULE_BIG_MAX, MODULE_SMALL_MIN, MODULE_SMALL_MAX, NUM_PLANET_MIN, NUM_PLANET_MAX, NUM_TEETH_SUN_MIN, NUM_TEETH_PLANET_BIG_MIN, NUM_TEETH_PLANET_SMALL_MIN, GEAR_RATIO_MIN, GEAR_RATIO_MAX, GEAR_RATIO_STEP
+1 , -2 , 0.5 , 1.2 , 0.5 , 1.2 , 3 , 7 , 14 , 14 , 14 , 3.0 , 15.0 , 1.0
+ 
+iter, gearRatio, moduleBig, moduleSmall, Ns, NpBig, NpSmall, Nr, numPlanet, fwSunMM, fwPlanetBigMM, fwPanetSmallMM, fwRingMM, mass, eff, peakTorque, Cost, Torque_Density, Outer_Bearing_mass, Actuator_width
+64 , 3.0 , 0.5 , 0.5 , 50 , 25 , 25 , 100 , 5 , 3.419 , 4.0 , 4.0 , 4.0 , 0.801 , 0.956 , 8.86 , 0.48960812615719207 , 11.061 , 0.05 , 167.8
+46 , 4.0 , 0.5 , 0.5 , 50 , 25 , 15 , 90 , 5 , 3.419 , 3.419 , 7.083 , 7.083 , 0.807 , 0.935 , 11.814 , 1.0377357368750904 , 14.639 , 0.05 , 170.30233655600824
+28 , 5.249999999999999 , 0.9 , 0.9 , 15 , 20 , 16 , 51 , 3 , 8.806 , 8.806 , 8.318 , 8.318 , 0.79 , 0.911 , 15.505 , 2.394196892398854 , 19.627 , 0.038 , 176.92471551135995
+20 , 6.175 , 0.8 , 0.8 , 15 , 23 , 16 , 54 , 3 , 11.02 , 11.02 , 12.239 , 12.239 , 0.805 , 0.91 , 18.237 , 3.636796462814022 , 22.655 , 0.038 , 183.0593541608244
+15 , 7.0 , 0.7 , 0.7 , 15 , 27 , 18 , 60 , 3 , 14.218 , 14.218 , 16.279 , 16.279 , 0.808 , 0.915 , 20.674 , 5.076535613165097 , 25.587 , 0.031 , 190.29684717267804
+8 , 8.6 , 0.7 , 0.7 , 15 , 28 , 14 , 57 , 3 , 14.18 , 14.18 , 23.474 , 23.474 , 0.847 , 0.901 , 25.399 , 6.575398676021276 , 29.987 , 0.038 , 197.45382613121006
+3 , 9.047619047619047 , 0.5 , 0.5 , 21 , 39 , 18 , 78 , 3 , 17.167 , 17.167 , 33.899 , 33.899 , 0.866 , 0.924 , 26.721 , 9.230465084666173 , 30.856 , 0.031 , 210.8662539502385
+2 , 10.285714285714286 , 0.5 , 0.5 , 21 , 39 , 15 , 75 , 3 , 17.167 , 17.167 , 43.19 , 43.19 , 0.889 , 0.915 , 30.378 , 11.1299810171944 , 34.171 , 0.031 , 220.15683701054962
+
+
+Running Time (sec)
+396.46916031837463
