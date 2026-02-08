@@ -1,0 +1,13 @@
+Upper gears v1:
+Teeth ratio: 29: 7
+Module: 1.2928
+Gear center dist: 23.267
+Clearance: 0.05mm
+Pressure angle: 20deg
+
+Upper gears v4: 
+Teeth ratio: 35:9
+Module: 1.0577
+Outer dia 1: 39.14
+Outer dia 2: 11.63
+Max torque (tooth strength): 1.919

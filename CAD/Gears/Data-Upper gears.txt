@@ -1,6 +1,0 @@
-Upper gears:
-Teeth ratio: 29: 7
-Module: 1.2928
-Gear center dist: 23.267
-Clearance: 0.05mm
-Pressure angle: 20deg
