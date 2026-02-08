@@ -1,0 +1,83 @@
+Paper extraction:
+
+1) Peak VGRF in amputees: 
+1.5 BW on sound limb, 1 BW on prosthetic
+
+2) Peak V impulse in amputees:
+0.8 BWsec on sound limb, 0.6 BWsec on prosthetic
+
+3) Level and incline running wiki page:
+One complete gait cycle is defined as beginning when one foot comes into contact with the ground and continuing until that same foot contacts the ground again
+Running, by definition, involves a maximum of one foot in contact with the ground at any given time and often no contact with the ground.
+One complete gait cycle involves a stance and swing phase for each leg.
+Gave me reference to paper on GRF in incline running
+
+4) VGRF in incline running:
+3, 6 and 9 degree inclines (uphill and downhill)
+Downhill: -9 -> 2.6 BW, -6 -> 2.5 BW, -3 -> 2.3 BW
+Uphill: -9, -6, -3 -> 2.2 BW
+Level: 2.4 BW
+
+5) HGRF in incline running:
+3, 6 and 9 degree inclines (uphill and downhill)
+Downhill: -9 -> 0.6 BW, -6 -> 0.5 BW, -3 -> 0.4 BW
+Uphill: +9 -> 0.6 BW, +6 -> 0.5 BW, +3 -> 0.4 BW
+Level: +- 0.3 BW
+
+5) Stride frequency in running (uphill, downhill, level)
+1.41 to 1.58 Hz
+
+6) VGRF in dominant limb in bilateral jump landing:
+1.1m - 5.3 BW, 0.6m - 3 BW, 0.3m - 2.5 BW
+
+7) V impulse in dominant limb in bilateral landing:
+1.1m - 0.005 Ns/kg, 0.6m - 0.001 Ns/kg, 0.3m - 0.0005 Ns/kg
+
+8) Params like GRF and DLFs are frequency dependent
+
+9) Monitoring the C7th vertebrae at the base of the neck is appropriate for recording GRFs upto a frequency of 4Hz for bobbing and 5Hz for jumping (it is equivalent to a COM)
+
+10) Bobbing is commonly known to excite resonant frequencies in structures, with jouncing being more frequent
+
+11) Normalized avg peak force in Jumping as a function of frequency:
+1Hz - 3.3 BW, 2Hz - 4 BW, 3Hz - 3.4 BW
+
+12) Normalized avg peak force in Bobbing as a function of frequency:
+1Hz - 1.9 BW, 2Hz - 2.4 BW, 3Hz - 2.6 BW, 4Hz - 2.1 BW
+
+13) Dynamic loading factor values at the harmonic frequencies of jumping:
+At 1Hz excitation frequency -> Jumping has highest DLF in 2Hz harmonic freq (1.2), Bobbing has highest DLF in 3Hz harmonic freq (0.4)
+At 2Hz excitation freq -> Jumping has highest in 2Hz harm freq (1.6), Bobbing has highest in 2Hz harm freq (1.1)
+At 3Hz excitation freq -> Jumping has highest in 3Hz harm freq (1.6), Bobbing has highest in 3Hz (1.1)
+At 4Hz excitation -> Bobbing has highest in 3.5Hz harm freq (1.2)
+
+14) Peak forces vs contact ratio (contact time/ period of jumping) in jumping (given at 1Hz and 2 Hz):
+some example values: 4.3 BW at 0.43, 3.8 BW at 0.65, 2.8 BW at 0.85
+
+15) Peak acceleration at natural frequencies of the floor during jumping and bobbing:
+1.5m/s^2 at 1Hz, 6 m/s^2 at 2Hz and 3Hz, 3m/s^2 at 4Hz and 5.5Hz, drops off after this (jumping)
+1.5m/s^2 at 1Hz, 3.5 m/s^2 at 2Hz, 4m/s^2 at 3Hz, 3m/s^2 at 4Hz, drops off after this (bobbing)
+The modal mass was taken as 10,000kg (quite low in reality, which is around 35,000 kg)
+
+16) Taking a walking speed of 1.25 m/s, the VGRF and HGRFs are:
+VGRF: 1.3 BW
+APGRF: 0.22 BW
+MLGRF: 0.1 BW
+
+17) For slow, preferred and fast running speeds, the VGRF is:
+HS runners -> Slow (3.33 m/s) - 2.8 BW, Preferred (3.9 m/s) - 3 BW, Fast (4.4 m/s) - 3.2 BW
+NHS runners -> Slow (3.33 m/s) - 2.7 BW, Preferred (3.9 m/s) - 2.8 BW, Fast (4.4 m/s) - 3 BW
+There is also a table in this paper detailing the results specific to contact time, and time from heelstrike to toe-off (Table 3)
+
+18) VGRF and HGRF in unilateral landing from a 10.5cm high box:
+VGRF: 24.3 N/kg
+Posterior GRF: 6.2 N/kg
+
+19) GRFs during turning 90 degrees at self-selected walking speeds:
+MLGRF at Apex phase of turn: 3 N/kg (lateral)
+APGRF at Apex phase of turn: 3 N/kg (anterior or posterior)
+Apex phase is the one with max GRF and impulse
+
+20) Impulses during turning 90 degrees at self-selected walking speeds:
+MLI at Apex phase of turn: 160 SI
+API at Apex phase of turn: 80 SI 
