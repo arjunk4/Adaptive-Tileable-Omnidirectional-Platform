@@ -1,0 +1,4 @@
+Lower gears
+
+Dia ratio: 26: 20
+No of teeth: 26: 20
